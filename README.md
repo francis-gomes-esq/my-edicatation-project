@@ -1,37 +1,38 @@
 # Edicatation
 
 ## Description
-https://edicatation.netlify.app/
 Edicatation is a kids' education website designed to make learning fun and interactive. It offers a variety of games, quizzes, and learning materials to engage children in an enjoyable educational experience.
-
 
 ## Features
 - Games: Interactive games to reinforce learning in various subjects such as math, countries, memory, and more.
 - Quizzes: Engaging quizzes to test children's knowledge and track their progress.
 - Learning Materials: Educational resources including videos and interactive lessons to supplement learning.
+
 ## Table of Contents
 
--   [](#edicatation)
+-   [Edicatation](#edicatation)
 -   [Description](#decription)
 -   [Features](#features)
 -   [Technology Used](#technology-used)
 -   [Deployment](#deployment)
 -   [License](#license)
 -   [Demo](#demo)
+-   [GitHub URL](#github-url)
 -   [List of Third Party Assets](#list-of-third-party-assets)
 -   [Roadmap](#roadmap)
 -   [Contributing](#contributing)
-
 
 ## Technology Used
 - React: Utilized for building the frontend components, providing a dynamic and responsive user interface.
 - Tailwind CSS: Utilized for styling the website, enabling rapid development and customization.
 - Vite: Used as the build tool to enhance the development experience with fast builds and hot module replacement.
+  
 ## Deployment
 Edicatation is deployed using Netlify, providing continuous deployment and hosting capabilities.
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+View deployed App here: https://edicatation.netlify.app/
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mdtoy-dev/Edicatation?tab=MIT-1-ov-file) file for details.
 
 ## Demo
 ![Demo](./src/assets/Project%202.gif)
@@ -49,11 +50,7 @@ when the user finishes the quiz , they will be displayed with their score , opti
 * When user navigates to score page, user is displayed with score board with respective quiz section.
 
 ## GitHub URL:
- https://github.com/mdtoy-dev/Edicatation.git
-
- 
-
-
+ You can view the github repository via this link: ![github](https://github.com/mdtoy-dev/Edicatation.git)
 
 ## List of third-party assets.
 
@@ -66,7 +63,6 @@ when the user finishes the quiz , they will be displayed with their score , opti
 -   [Express JS Server](https://expressjs.com/en/starter/hello-world.html)
 -   [Confetti](https://www.npmjs.com/package/react-confetti)
 
-
 ## Roadmap
 - Kids collaboration: group activities
 - Achievement system: Encourages kids to learn more
@@ -75,9 +71,10 @@ when the user finishes the quiz , they will be displayed with their score , opti
 - Additional functionalities: including timers to increase engagement
 
 ## Contributing
+- TBC
 
 ---
 
-© 2024 Berk Vino  Hazal Francis Rhen
+© 2024       Berk Vino Hazal Francis Rhen
 
 
