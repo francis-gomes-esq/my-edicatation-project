@@ -50,7 +50,7 @@ when the user finishes the quiz , they will be displayed with their score , opti
 * When user navigates to score page, user is displayed with score board with respective quiz section.
 
 ## GitHub URL:
- You can view the github repository via this link: ![github](https://github.com/mdtoy-dev/Edicatation.git)
+ You can view the github repository via this link: [github](https://github.com/mdtoy-dev/Edicatation.git)
 
 ## List of third-party assets.
 
